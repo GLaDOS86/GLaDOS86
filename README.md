@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GLaDOS86
 - 👀 I’m interested in film and pretty girl
 - 🌱 I’m currently learning digital image-processing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m a student now and just want learning some cool things in this website
 - 📫 you can reach me by email address 3102999653@qq.com
 
 <!---
